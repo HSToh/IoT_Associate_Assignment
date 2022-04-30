@@ -18,3 +18,4 @@ sensor values are published directly to the MQTT broker once received.
 
 # Node-RED Dashboard Flow
 The dashboard developed with Node-RED is used to display real-time sensor data representing motor conditions while performing data logging locally in CSV format.
+The dashboard designed here is set locally on Windows OS. In reality, it should be hosted on a cloud platform.
