@@ -1,4 +1,4 @@
-# IoT_Associate_Assignment_AceDigital
+# IoT_Associate_Assignment
 # Disclaimer
 
 The code files uploaded to this repository consists of that up to a single NodeMCU only. A single NodeMCU paired with a 16-channel analogue multiplexer module
